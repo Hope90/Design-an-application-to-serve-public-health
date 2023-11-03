@@ -8,11 +8,17 @@ Your mission:
 After reading the call for projects, here are the different steps that you have identified:
 
 1) Process the dataset:
+
 Thinking about an app idea.
+
 Identifying variables relevant to future treatments, and necessary for your application idea.
+
 Cleaning the data by:
+
 highlighting possible missing values, with at least 3 processing methods adapted to the variables concerned;
+
 identifying and quantifying possible outliers for each variable;
+
 automating these treatments to avoid repeating these operations.
 
 2) Throughout the analysis, produce visualizations to better understand the data. Perform a univariate analysis for each variable of interest, in order to summarize its behavior.
